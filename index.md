@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Preface
+Hello! Welcome to my menagerie of knowledge on the topic of computer science! As a fair warning, I must state that this shouldn't be taken as a discrete tutorial on how to become a computer scientist. Much of my knowledge on topics is incomplete and much of the grouping of information is based on my biased opinion of how computer science should be learned. So then what is the purpose of this if not to be a meaningful tutorial? I suppose the goal of this is two-fold. The first is a personal reason of re-teaching myself much of what I learned in classes at my time at UCSD. The second reason is because I feel this would be a good source of knowledge for those who are already adept at computer science but need a warm-up on a certain topic. Regardless, I hope this document serves you a purpose and I hope you enjoy!
 
-You can use the [editor on GitHub](https://github.com/cmwall0605/CSE_Dossier/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of contents
+1. [Introduction](#introduction)
+2. [Principles](#principles)
+    1. [Discrete Mathematics](#dm)
+    2. [Algorithms](#al)
+    3. [Data Structures](#ds)
+3. [Application](#applications)
+    1. [Programming Languages](#pl)
+    2. [Software Engineering Practices](#sep)
+    3. [Machine Learning](#ml)
+    4. [Operating Systems](#os)
+    5. [Graphics](#gr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Introduction <a name="introduction"></a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmwall0605/CSE_Dossier/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Principles <a name="principles"></a>
+## Discrete Mathematics <a name="dm"></a>
+## Algorithms <a name="al"></a>
+## Data Structures <a name="ds"></a>
+# Applications <a name="applications"></a>
+## Programming Languages <a name="pl"></a>
+## Software Engineering Practices <a name="sep"></a>
+## Machine Learning <a name="ml"></a>
+## Operating Systems <a name="os"></a>
+## Graphics <a name="gr"></a>
